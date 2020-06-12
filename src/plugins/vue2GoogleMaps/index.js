@@ -2,7 +2,7 @@ import Vue from "vue";
 import * as VueGoogleMaps from "vue2-google-maps";
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyDHEZnNrdCwvVt02dGGlGUW9-06N4TQC1M",
+    key: "你的 Google map api key",
     libraries: ["geometry"]
   }
 });
